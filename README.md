@@ -1,3 +1,5 @@
+![](app-icon.png)
+
 # Comet compass
 Compass for the Mecha Comet
 
