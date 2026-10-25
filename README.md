@@ -1,2 +1,2 @@
 # Comet compass
-Compass for the Meach Comet
+Compass for the Mecha Comet
