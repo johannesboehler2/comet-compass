@@ -7,6 +7,6 @@ Compass for the [Mecha Comet](https://mecha.so/comet#overview)
 ![Night mode](screenshot_002.png)
 
 
-Made with love2d
+Made with [love2d](https://www.love2d.org)
 
 License GPL3
